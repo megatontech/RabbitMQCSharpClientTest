@@ -1,0 +1,2 @@
+# RabbitMQCSharpClientTest
+RabbitMQCSharpClientTest RabbitMQ的测试项目
