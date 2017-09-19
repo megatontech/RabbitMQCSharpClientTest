@@ -1,0 +1,12 @@
+C:\Project\RabbitMQ\MQtest\MQtest\bin\Debug\MQtest.exe.config
+C:\Project\RabbitMQ\MQtest\MQtest\bin\Debug\MQtest.exe
+C:\Project\RabbitMQ\MQtest\MQtest\bin\Debug\MQtest.pdb
+C:\Project\RabbitMQ\MQtest\MQtest\bin\Debug\RabbitMQ.Client.dll
+C:\Project\RabbitMQ\MQtest\MQtest\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Project\RabbitMQ\MQtest\MQtest\bin\Debug\RabbitMQ.Client.xml
+C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.Form1.resources
+C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.Properties.Resources.resources
+C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.csproj.GenerateResource.Cache
+C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.csproj.CoreCompileInputs.cache
+C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.exe
+C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.pdb
