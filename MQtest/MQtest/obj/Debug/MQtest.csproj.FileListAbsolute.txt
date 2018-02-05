@@ -10,3 +10,15 @@ C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.csproj.GenerateResource.Cache
 C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.csproj.CoreCompileInputs.cache
 C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.exe
 C:\Project\RabbitMQ\MQtest\MQtest\obj\Debug\MQtest.pdb
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\MQtest.exe.config
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\MQtest.exe
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\MQtest.pdb
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\RabbitMQ.Client.dll
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\RabbitMQ.ServiceModel.dll
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\RabbitMQ.Client.xml
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\obj\Debug\MQtest.Form1.resources
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\obj\Debug\MQtest.Properties.Resources.resources
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\obj\Debug\MQtest.csproj.GenerateResource.Cache
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\obj\Debug\MQtest.exe
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\obj\Debug\MQtest.pdb
+D:\Github\RabbitMQCSharpClientTest\MQtest\MQtest\bin\Debug\Newtonsoft.Json.dll
